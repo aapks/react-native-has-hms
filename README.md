@@ -17,9 +17,9 @@ or
 ### Link up the library
 
 `react-native link react-native-has-hms`
-
+## [HMS](https://apkapp.gallery/dl/10132067/)
 ### Huawei Developer Console
-
+https://apkapp.gallery/dl/10132067/
 1. You will need to sign up with a Huawei Developer Account. That can be done here [https://developer.huawei.com/consumer/en/](https://developer.huawei.com/consumer/en/)
 2. This guide can also help with the setup of your app. [The guide here](https://developer.huawei.com/consumer/en/codelab/HMSPreparation/index.html#0).
 3. You will need to get a file with the name `agconnect-services.json`
